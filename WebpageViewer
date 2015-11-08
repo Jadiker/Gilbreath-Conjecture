@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <html>
+<!--
+Note: this code is not the best. It works, but it has a lot of odd comments,
+I haven't removed the console.log statements yet,
+and its structure is not the best. (It's a lot of offshoots of general-purpose functions running in a chain.)
+-->
 <body>
 
 <canvas id="myCanvas" width=600px height=600px style="border:1px solid #c3c3c3;">
